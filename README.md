@@ -10,6 +10,7 @@ See different-sized markers representing the magnitude of earthquakes.
 Observe color changes based on earthquake depth.
 Click on markers to see detailed information in popups.
 View a legend that helps interpret the color-coding based on depth.
-----------------------------------------------------------------
+
+----------------------------------------------------------------------
 This part of the project demonstrated how to visualize real-time earthquake data using Leaflet.js and D3.js. The resulting map is interactive, easy to understand, and provides valuable insights into global seismic activity.
 
